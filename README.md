@@ -2,6 +2,6 @@
 
 ``cd phisheing``
 
-``chmod +x phishing.sh``
+``chmod +x phisheing.sh``
 
-``./phishing.sh``
+``./phisheing.sh``
